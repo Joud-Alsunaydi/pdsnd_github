@@ -7,7 +7,7 @@ Thu 22 Dec 2022
 Sakila-movie-database (SQL) / bikeshare.py (Python) / Git Version Control
 
 ### Description
-
+These projects are a part of the 'Programming For Data Science (PFDS)' Nanodegree.
 
 ### Files used
 Include the files used
