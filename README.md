@@ -10,8 +10,15 @@ Sakila-movie-database (SQL) / bikeshare.py (Python) / Git Version Control
 These projects are a part of the 'Programming For Data Science (PFDS)' Nanodegree.
 
 ### Files used
-Include the files used
+1- Sakila movie database
+2- chicago.csv
+3- new_york_city.csv
+4- washington.csv
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+
+
 
