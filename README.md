@@ -14,11 +14,3 @@ These projects are a part of the 'Programming For Data Science (PFDS)' Nanodegre
 2- chicago.csv
 3- new_york_city.csv
 4- washington.csv
-
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-
-
-
