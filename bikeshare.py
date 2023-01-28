@@ -135,6 +135,8 @@ def station_stats(df):
     # TO DO: display most frequent combination of start station and end station trip
     print('The most frequent combination of Start and End Station Trips:\n\n', df.groupby(['Start Station', 'End Station']).size().nlargest(1))
 
+    # modification 1
+    print("\nDisclaimer: The most frequent combination of Start and End Stations indicates that their might not be any bicyles available.")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
@@ -191,6 +193,10 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+    # Modification 2
+    print("\nPro tip: Use these statistics to find out who is targeted demographic.")  
+
+    
 
 def main():
     while True:
